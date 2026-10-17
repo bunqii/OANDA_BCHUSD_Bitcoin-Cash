@@ -1,0 +1,119 @@
+{
+  "pod_version": "4.0",
+  "instrument": "BCH_USD",
+  "granularity": "M1",
+  "chunk_start": "2025-07-01",
+  "chunk_end": "2025-07-31",
+  "parquet_file": "OANDA_BCHUSD_Bitcoin-Cash_1_2025-07-01_to_2025-07-31.parquet",
+  "data_file": "OANDA_BCHUSD_Bitcoin-Cash_1_2025-07-01_to_2025-07-31.parquet",
+  "row_count": 32781,
+  "first_candle": {
+    "time": 1751328000,
+    "Time": "2025-07-01T00:00:00.000000000Z",
+    "open": 505.79,
+    "high": 505.85,
+    "low": 505.54,
+    "close": 505.78,
+    "volume": 39
+  },
+  "last_candle": {
+    "time": 1754006340,
+    "Time": "2025-07-31T23:59:00.000000000Z",
+    "open": 561.42,
+    "high": 561.52,
+    "low": 561.18,
+    "close": 561.27,
+    "volume": 22
+  },
+  "csv_file": "OANDA_BCHUSD_Bitcoin-Cash_1_2025-07-01_to_2025-07-31.parquet",
+  "csv_row_count": 32781,
+  "csv_first_candle": {
+    "time": 1751328000,
+    "Time": "2025-07-01T00:00:00.000000000Z",
+    "open": 505.79,
+    "high": 505.85,
+    "low": 505.54,
+    "close": 505.78,
+    "volume": 39
+  },
+  "csv_last_candle": {
+    "time": 1754006340,
+    "Time": "2025-07-31T23:59:00.000000000Z",
+    "open": 561.42,
+    "high": 561.52,
+    "low": 561.18,
+    "close": 561.27,
+    "volume": 22
+  },
+  "status": "VERIFIED",
+  "verified_at": "2026-10-16T02:25:33.000000000Z",
+  "generated_at": "2026-10-16T02:25:33.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 714,
+    "chunk_api_blocks": 10,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2025-06-27T16:21:00Z",
+        "to": "2025-07-01T03:41:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-01T03:41:00Z",
+        "to": "2025-07-04T15:01:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-04T15:01:00Z",
+        "to": "2025-07-08T02:21:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-08T02:21:00Z",
+        "to": "2025-07-11T13:41:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-11T13:41:00Z",
+        "to": "2025-07-15T01:01:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-15T01:01:00Z",
+        "to": "2025-07-18T12:21:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-18T12:21:00Z",
+        "to": "2025-07-21T23:41:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-21T23:41:00Z",
+        "to": "2025-07-25T11:01:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-25T11:01:00Z",
+        "to": "2025-07-28T22:21:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2025-07-28T22:21:00Z",
+        "to": "2025-08-01T09:41:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
