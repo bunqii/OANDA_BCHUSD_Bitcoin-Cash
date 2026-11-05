@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_BCHUSD_Bitcoin-Cash_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_BCHUSD_Bitcoin-Cash_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 2028,
+  "row_count": 4803,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 2
   },
   "last_candle": {
-    "time": 1793693880,
-    "Time": "2026-11-03T08:18:00.000000000Z",
-    "open": 275.05,
-    "high": 275.2,
-    "low": 275.05,
-    "close": 275.1,
-    "volume": 6
+    "time": 1793862480,
+    "Time": "2026-11-05T07:08:00.000000000Z",
+    "open": 284.9,
+    "high": 285.15,
+    "low": 284.9,
+    "close": 284.95,
+    "volume": 12
   },
   "csv_file": "OANDA_BCHUSD_Bitcoin-Cash_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 2028,
+  "csv_row_count": 4803,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 2
   },
   "csv_last_candle": {
-    "time": 1793693880,
-    "Time": "2026-11-03T08:18:00.000000000Z",
-    "open": 275.05,
-    "high": 275.2,
-    "low": 275.05,
-    "close": 275.1,
-    "volume": 6
+    "time": 1793862480,
+    "Time": "2026-11-05T07:08:00.000000000Z",
+    "open": 284.9,
+    "high": 285.15,
+    "low": 284.9,
+    "close": 284.95,
+    "volume": 12
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-03T08:19:45.000000000Z",
-  "generated_at": "2026-11-03T08:19:45.000000000Z",
+  "verified_at": "2026-11-05T07:09:15.000000000Z",
+  "generated_at": "2026-11-05T07:09:15.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-02T06:12:00Z",
-        "to": "2026-11-03T08:19:00Z",
+        "from": "2026-11-03T08:13:00Z",
+        "to": "2026-11-05T07:09:00Z",
         "code": 200,
         "msg": "OK"
       }
